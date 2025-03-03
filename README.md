@@ -7,10 +7,16 @@ Este repositório segue a abordagem **Git Flow**, um modelo de ramificação que
 Para instalar o Git Flow, execute o comando correspondente ao seu sistema operacional:
 
 - **Windows (via Chocolatey)**
+1- **Instalar Chocolatey**
+
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
 
 ```bash
 choco install git-flow-avh -y
 ```
+
 
 - **macOS (via Homebrew)**
 
