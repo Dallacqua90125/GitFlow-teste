@@ -11,6 +11,7 @@ Para instalar o Git Flow, execute o comando correspondente ao seu sistema operac
 1. **Instalar Chocolatey**
 ```bash
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
 choco --version
 ```
 2. **Instalar Git Flow**
@@ -23,6 +24,7 @@ choco install git-flow-avh -y
 1. **Instalar Homebrew**
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
 brew --version
 ```
 
