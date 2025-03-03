@@ -1,6 +1,3 @@
-Aqui está todo o conteúdo formatado em Markdown para você usar no seu `README.md`:
-
-```markdown
 # Git Flow - Fluxo de Trabalho
 
 Este repositório segue a abordagem **Git Flow**, um modelo de ramificação que estrutura o desenvolvimento de software com branches bem definidas para diferentes estágios do projeto.
