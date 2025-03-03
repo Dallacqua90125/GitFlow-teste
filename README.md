@@ -37,7 +37,7 @@ brew install git-flow-avh
 
 O Git Flow utiliza as seguintes branches principais:
 
-- **`ma`**: Representa a versão estável e pronta para produção.
+- **`master`**: Representa a versão estável e pronta para produção.
 - **`develop`**: Branch de desenvolvimento, onde as novas funcionalidades são integradas.
 - **`feature/`**: Branches para desenvolvimento de novas funcionalidades.
 - **`release/`**: Branches para preparação de novas versões.
