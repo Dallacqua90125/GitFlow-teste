@@ -2,11 +2,11 @@
 
 Este repositório segue a abordagem **Git Flow**, um modelo de ramificação que estrutura o desenvolvimento de software com branches bem definidas para diferentes estágios do projeto.
 
-### 🔄 Instalação do Git Flow
+## 🔄 Instalação do Git Flow
 
 Para instalar o Git Flow, execute o comando correspondente ao seu sistema operacional:
 
-- #### **Windows (via Chocolatey)**
+- ### **Windows (via Chocolatey)**
 
 1. **Instalar Chocolatey**
 ```bash
@@ -17,7 +17,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install git-flow-avh -y
 ```
 
-- #### **macOS (via Homebrew)**
+- ### **macOS (via Homebrew)**
 
 ```bash
 brew install git-flow-avh
