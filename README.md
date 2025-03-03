@@ -40,6 +40,7 @@ O Git Flow utiliza as seguintes branches principais:
 - **`master`**: Representa a versão estável e pronta para produção.
 - **`develop`**: Branch de desenvolvimento, onde as novas funcionalidades são integradas.
 - **`feature/`**: Branches para desenvolvimento de novas funcionalidades.
+- **`bug-fix`**: Branches para corrigr bugs encontrados na branch develop.
 - **`release/`**: Branches para preparação de novas versões.
 - **`hotfix/`**: Branches para correções críticas em produção.
 
